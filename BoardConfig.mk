@@ -84,6 +84,9 @@ PLATFORM_SECURITY_PATCH := 2099-12-31
 VENDOR_SECURITY_PATCH := 2099-12-31
 PLATFORM_VERSION := 16.1.0
 
+# Show build time on the splash screen
+TW_DEVICE_VERSION= by josemi
+
 # TWRP Configuration
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
